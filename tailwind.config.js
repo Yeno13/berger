@@ -22,6 +22,9 @@ module.exports = {
       height: {
         "128": "20vw",
       },
+      width: {
+        "logo-width": "5%",
+      },
     },
   },
   plugins: [],

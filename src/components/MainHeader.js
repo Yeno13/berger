@@ -23,7 +23,7 @@ const MainHeader = () => {
           <img
             src="https://automatisme-pics.s3.eu-west-3.amazonaws.com/Logo-CAME.png"
             alt="Logo Came"
-            className="absolute pb-5 mt-1 ml-1 h-1/6 w-1/12"
+            className="absolute pb-5 mt-1 ml-1 h-1/6 w-logo-width"
           />
           <div className="flex h-full items-center justify-center">
             <div className="px-6 text-center text-white md:px-12">

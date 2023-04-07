@@ -9,7 +9,7 @@ const Details = () => {
   }
   return (
     <div>
-      <h1>{item.title}</h1>
+      <h1 className="text-center text-5xl font-bold">{item.title}</h1>
     </div>
   );
 };
